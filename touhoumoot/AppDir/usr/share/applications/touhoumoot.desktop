@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Touhou Yumei Kekkai prototype Linux build
+Path=/usr/bin/
+Exec=touhoumoot
+Icon=touhoumoot
+Terminal=false
+Categories=Game;
